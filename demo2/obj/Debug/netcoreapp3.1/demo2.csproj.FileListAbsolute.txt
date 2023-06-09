@@ -1,0 +1,14 @@
+E:\demo learn\demo1\demo2\bin\Debug\netcoreapp3.1\demo2.exe
+E:\demo learn\demo1\demo2\bin\Debug\netcoreapp3.1\demo2.deps.json
+E:\demo learn\demo1\demo2\bin\Debug\netcoreapp3.1\demo2.runtimeconfig.json
+E:\demo learn\demo1\demo2\bin\Debug\netcoreapp3.1\demo2.runtimeconfig.dev.json
+E:\demo learn\demo1\demo2\bin\Debug\netcoreapp3.1\demo2.dll
+E:\demo learn\demo1\demo2\bin\Debug\netcoreapp3.1\demo2.pdb
+E:\demo learn\demo1\demo2\obj\Debug\netcoreapp3.1\demo2.csproj.AssemblyReference.cache
+E:\demo learn\demo1\demo2\obj\Debug\netcoreapp3.1\demo2.GeneratedMSBuildEditorConfig.editorconfig
+E:\demo learn\demo1\demo2\obj\Debug\netcoreapp3.1\demo2.AssemblyInfoInputs.cache
+E:\demo learn\demo1\demo2\obj\Debug\netcoreapp3.1\demo2.AssemblyInfo.cs
+E:\demo learn\demo1\demo2\obj\Debug\netcoreapp3.1\demo2.csproj.CoreCompileInputs.cache
+E:\demo learn\demo1\demo2\obj\Debug\netcoreapp3.1\demo2.dll
+E:\demo learn\demo1\demo2\obj\Debug\netcoreapp3.1\demo2.pdb
+E:\demo learn\demo1\demo2\obj\Debug\netcoreapp3.1\demo2.genruntimeconfig.cache
